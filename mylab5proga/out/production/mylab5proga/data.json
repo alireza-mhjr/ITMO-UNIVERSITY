@@ -1,0 +1,79 @@
+{
+  "578": {
+    "id": 8545310066472778454,
+    "name": "apple",
+    "coordinates": {
+      "x": 12,
+      "y": -500
+    },
+    "creationDate": "2023-05-09T16:28:23 PM MSK",
+    "price": 150,
+    "partNumber": "Ameircan we-45",
+    "manufactureCost": 100.0
+  },
+  "456": {
+    "id": 1755616246882791464,
+    "name": "clock",
+    "coordinates": {
+      "x": 25,
+      "y": 3455
+    },
+    "creationDate": "2023-05-09T03:54:55 AM MSK",
+    "price": 1999,
+    "partNumber": "GUCCI JM-#$%",
+    "manufactureCost": 199.0,
+    "owner": {
+      "name": "alireza",
+      "height": 1345,
+      "location": {
+        "x": 123,
+        "y": 543.0
+      }
+    }
+  },
+  "12": {
+    "id": 8481780588502680939,
+    "name": "car",
+    "coordinates": {
+      "x": 45,
+      "y": -234
+    },
+    "creationDate": "2023-05-08T22:56:27 PM MSK",
+    "price": 1500,
+    "partNumber": "BMW MS-54k",
+    "manufactureCost": 1000.0,
+    "unitOfMeasure": "GRAMS",
+    "owner": {
+      "name": "kaihan",
+      "birthday": "1999-04-16T22:56:05 PM MSD",
+      "height": 180,
+      "hairColor": "RED",
+      "location": {
+        "x": 34,
+        "y": 192.0,
+        "name": "kabul"
+      }
+    }
+  },
+  "34": {
+    "id": 736070928330086507,
+    "name": "dastmal",
+    "coordinates": {
+      "x": -383,
+      "y": -342
+    },
+    "creationDate": "2023-05-09T17:58:34 PM MSK",
+    "price": 120,
+    "partNumber": "bahman OI-79",
+    "manufactureCost": 200.0,
+    "owner": {
+      "name": "alireza",
+      "height": "kjas",
+      "hairColor": "RED",
+      "location": {
+        "x": 190,
+        "y": -980.0
+      }
+    }
+  }
+}

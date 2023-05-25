@@ -1,0 +1,18 @@
+info
+insert 100
+book
+kasd
+-90
+50
+LG p-9
+12
+
+
+
+
+
+
+execute_script C:\Users\Ali Reza Mohajer\lab5_proga\mylab5proga\src\script2.txt
+info
+kjk
+show
